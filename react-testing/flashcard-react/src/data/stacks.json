@@ -1,0 +1,29 @@
+[
+  {
+    "title": "React tech",
+    "id": 0,
+    "cards": [
+      { "id": 0, "prompt": "Redux store", "answer": "Root object for all app data" },
+      { "id": 1, "prompt": "Redux reducer", "answer": "Mechanism to update stores (has rules defined)" },
+      { "id": 2, "prompt": "Redux actions", "answer": "Objects that contain type (rule) and data" },
+      { "id": 3, "prompt": "react-bootstrap", "answer": "Library that contains DOM elements" },
+      { "id": 4, "prompt": "react-router", "answer": "Library for managing different views" },
+      { "id": 5, "prompt": "Jest", "answer": "Test runner for react projects" },
+      { "id": 6, "prompt": "Enzyme", "answer": "Library to mock mounting of components onto the DOM" },
+      { "id": 7, "prompt": "Test coverage", "answer": "npm test -- --coverage" }
+    ]
+  },
+  {
+    "title": "Computer Science Basics",
+    "id": 1,
+    "cards": [
+      { "id": 0, "prompt": "A single line of code", "answer": "statement" },
+      { "id": 1, "prompt": "A word reserved to store data", "answer": "variable" },
+      { "id": 2, "prompt": "A storage component to serve requests faster", "answer": "cache" },
+      { "id": 3, "prompt": "Where data is stored", "answer": "memory" },
+      { "id": 4, "prompt": "8 bits =", "answer": "1 byte" },
+      { "id": 5, "prompt": "A way to repeat code a certain number of times", "answer": "loop" },
+      { "id": 6, "prompt": "UI stands for", "answer": "User Interface" }
+    ]
+  }
+]
